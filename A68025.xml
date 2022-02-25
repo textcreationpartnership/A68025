@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistell exhortatorye, admonishing a[n]d warning all faithful Christia[n]s to beware of the false fained God of the aulter, and only to trust in the onelye lyuing God</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1547</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68025</idno>
+            <idno type="STC">STC 10430</idno>
+            <idno type="STC">ESTC S111316</idno>
+            <idno type="EEBO-CITATION">99846683</idno>
+            <idno type="PROQUEST">99846683</idno>
+            <idno type="VID">11669</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68025)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 11669)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 20:18, 38:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistell exhortatorye, admonishing a[n]d warning all faithful Christia[n]s to beware of the false fained God of the aulter, and only to trust in the onelye lyuing God</title>
+               </titleStmt>
+               <extent>[4] leaves   </extent>
+               <publicationStmt>
+                  <publisher>S.l.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1547?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Suggested imprint from STC.</note>
+                  <note>This item appears at reel 20:18 as STC 5196 (number changed in STC 2nd ed. to 10430) and at reel 38:9 as STC (2nd ed.) 10430.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:11669:1"/>
+            <pb facs="tcp:11669:1" rendition="simple:additions"/>
+            <head>An Epiſtell exhortatorye, admoniſhing an warning all faithful Chriſtia<g ref="char:cmbAbbrStroke">̄</g>s to beware of the falſe fained God of the aulter, and on<g ref="char:EOLhyphen"/>ly to truſt in the onelye lyuing God.</head>
+            <epigraph>
+               <q>
+                  <bibl>¶Ihon. iiii.¶</bibl>
+                  <p>O Ye worſhip ye wot not what we knowe what we worſhip.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Hat ſame ſpirit (de<g ref="char:EOLunhyphen"/>re brethere<g ref="char:cmbAbbrStroke">̄</g>) which moued S. Paul to reproue the Cyte<g ref="char:EOLhyphen"/>zens of Athens for theyr ydolatrye,<note place="margin">Act. xvii.</note> Act. 17. c. hath alſo moued vs to warn you by the Scriptures of the ſame of<g ref="char:EOLhyphen"/>fence ſpecially in worſhippyng that vnknowen God on y<hi rend="sup">e</hi> aul<g ref="char:EOLhyphen"/>ter, which thing you doo igno<g ref="char:EOLhyphen"/>rauntlye, and therfore we cer<g ref="char:EOLhyphen"/>tifye
+<pb facs="tcp:11669:2"/> a<g ref="char:cmbAbbrStroke">̄</g>d aſſure you by this pre<g ref="char:EOLhyphen"/>ſente.<note place="margin">iii. Ro. 8. d i. par. vi. c E<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6. a Act. xii. f He. br. ix. c</note> That God which made y<hi rend="sup">e</hi> worlde, and all that therin is, dwelleth not in temples made with handes: neither is he day<g ref="char:EOLhyphen"/>ly offred vppon your coniured aulters.<note place="margin">Hebr. 9. c</note> For than ſhulde he of<g ref="char:EOLhyphen"/>te haue ſuffred ſyns the world bega<g ref="char:cmbAbbrStroke">̄</g>.<note place="margin">Hebr. 9. e</note> But that did he ones for all, wha<g ref="char:cmbAbbrStroke">̄</g> he offred vp him ſelfe. and with that onelye ſacrifyce hath he made parfet for euer al the<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">t</hi> are ſanctifyed.<note place="margin">Hebr vii d</note> 
+               <note place="margin">Hebr 10 e</note> But nowe to our purpoſe, ſeing, Chriſt is not in your Churches made w<hi rend="sup">t</hi> handes (as theſe forſaid ſcriptu<g ref="char:EOLunhyphen"/>res will witnes vnto you) how can you auoyde ydolatry in ge<g ref="char:EOLunhyphen"/>ui<g ref="char:cmbAbbrStroke">̄</g>g that worſhip to an earthly thing, which is onely due vnto god? is not bread a<g ref="char:cmbAbbrStroke">̄</g> erthli thi<g ref="char:cmbAbbrStroke">̄</g>g? &amp; hath not the ha<g ref="char:cmbAbbrStroke">̄</g>des of ſinners made and faſhioned it for your purpoſe? why doo you tha<g ref="char:cmbAbbrStroke">̄</g> wor<g ref="char:EOLunhyphen"/>ſhyp it? And yf you ſay it is no
+<pb facs="tcp:11669:2"/> ſubſtaunce of bread. But the lykenes therof after y<hi rend="sup">e</hi> conſecra<g ref="char:EOLunhyphen"/>tyon (which is a blaſphemouſe<g ref="char:EOLunhyphen"/>lye) what wynne you by that? For God ſaid you ſhal not wor<g ref="char:EOLunhyphen"/>ſhip the lykenes of any thing in heuen or earth.<note place="margin">Exo 10 a Deut. v a</note> But here par<g ref="char:EOLhyphen"/>auenture ſome wilier then his fellowes, wyll ſay, we neyther worſhip the ſubſtau<g ref="char:cmbAbbrStroke">̄</g>ce of bread nor y<hi rend="sup">e</hi> likenes of breade, but we worſhyp Chryſt conteyned in y<hi rend="sup">e</hi> bread. To anſwere this vipers whelp, we ſay y<hi rend="sup">t</hi> the naturall bo<g ref="char:EOLunhyphen"/>dy of Chryſt is neyther contey<g ref="char:EOLhyphen"/>ned in the breade, in the church nor in y<hi rend="sup">e</hi> hole earth as we haue proued before, neyther willeth he to be worſhyped i<g ref="char:cmbAbbrStroke">̄</g> bread nor wine, but in ſpyrite a<g ref="char:cmbAbbrStroke">̄</g>d treuth,<note place="margin">Ihon iiii c</note> Neyther can ye worſhip Chriſt wher he is not, but wher he is, that is in Heauen. For that ſa<g ref="char:EOLhyphen"/>me naturall body which Chriſt toke of the virgin mary, which
+<pb facs="tcp:11669:3"/> ſuffred death, which roſe agai<g ref="char:cmbAbbrStroke">̄</g> which aſcended into heaue<g ref="char:cmbAbbrStroke">̄</g>, ſit<g ref="char:EOLhyphen"/>teth nowe on the ryght hande of his father, &amp; if you wyll not beleue vs herin, ſearche theſe ſcriptures following.</p>
+            <p>
+               <hi>Pſal x. c. xiiii. b Eccle. v. a. Iob. xv. d Eſay. lxiiii. a lxvi a. Iohn. <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ii. c. vii. e. viii. c. xl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. xiii. d. x<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iii. a. xvi. xvii. v x<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. d. 1 Col iiii. d. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>Heb. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. a. ix. c. x. c. Mat. xiii. x<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>. c. xv<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. b. Mat. x<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ii. c. xxvi. f. 2. ii. xxiii. c. i. Tim ii. a. v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> c. Act<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. b. Phil. iii. d. Col. iii. a. Rom. viii. Ephe. i. d. iii. b.</hi>
+            </p>
+            <p>Might not theſe if you were men and not beaſtes, perſuade you to the treuth &amp; cauſe your co<g ref="char:cmbAbbrStroke">̄</g>ſcious to confeſſe the abhomi<g ref="char:EOLunhyphen"/>nable ydolatry with earneſt re<g ref="char:EOLunhyphen"/>pentaunce for the ſame: Oh ye foles and ſlowe of hart to bele<g ref="char:EOLhyphen"/>ue the ſcripturs.<note place="margin">Luc 24 c</note> If we ſay the treuth why do you not beleue vs?<note place="margin">Ihon viii</note> Oh ye children of the deuel wyl you neuer ceaſe to peruert the ſtraight wayes of the lord?<note place="margin">Act <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> b</note> Wyll you ſtyll ſaye y<hi rend="sup">t</hi> you haue Chryſt,<note place="margin">Ihon 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a</note> and he ſayth you haue me not? Wyll you ſtyll ſaye y<hi rend="sup">t</hi>
+               <pb facs="tcp:11669:3"/> Chryſt is dayly offred amonge you,<note place="margin">Hebr vii d</note> and Saint Paule ſaith he was offred but ones for all? wyll you ſtyll ſaye he is in the boxe and the holyghoſt ſaythe he is in heauen? Wyll you ſtyll worſhip y<hi rend="sup">e</hi> dead workes of your handes in ſteade of the lyuynge God? Oh ye foolyſhe Sama<g ref="char:EOLhyphen"/>ritanes wyll you ſtyll worſhip ye wot not what, &amp; ſeke Chryſt ye wot not wher? did not chriſt himſelfe reproue your contrey woman for this vayne worſhip<g ref="char:EOLunhyphen"/>ping, ſaying:<note place="margin">Ihon iiii a</note> Neyther on this mountayne nor yet at Ieruſa<g ref="char:EOLhyphen"/>lem the true worſhippers wor<g ref="char:EOLunhyphen"/>ſhip my father, for the houre is come and now is, that the true worſhippers ſhal worſhip only in ſpirite and veritie? And ther<g ref="char:EOLunhyphen"/>fore ſaith Paule.<note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ama <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a ii Tit a</note> I thank God whome I worſhip and ſerue in my ſpirite &amp; in a pure conſcie<g ref="char:cmbAbbrStroke">̄</g>ce Loo, S. Paule ſaith not that
+<pb facs="tcp:11669:4"/> he worſhypped God in breade, wyne, or in any other creature but in ſpyryte and treuthe, as his maſter had taught him be<g ref="char:EOLhyphen"/>fore. Now wyll we ſhewe you the effect a<g ref="char:cmbAbbrStroke">̄</g>d frute of your wiſe worſhypping and ſo conclude. The effect is vayne. The frute ſynne and dampnatyon: vayne is the effecte. Becauſe it is but onelye the vayne doctryne and tradicyon of men, which thyng Chryſte him ſelfe confyrmeth. ſaing: In vayne do ye worſhip me teaching the doctrines and tradycyons of men.<note place="margin">Math 15 a</note> The frute that followeth y<hi rend="sup">e</hi> doing is ſi<g ref="char:cmbAbbrStroke">̄</g>ne, as thus.<note place="margin">J<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 10 b</note> S. Paul proueth the onely woorde of God to be the ground of faith. But this falſe worſhypping is not grounded <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the word of God. Ergo it ca<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>not be don of faith wherfor we conclude with Paule that it is ſi<g ref="char:cmbAbbrStroke">̄</g>ne,<note place="margin">Rom 14</note> for <abbr>whatſoev</abbr> is not done
+<pb facs="tcp:11669:4"/> of faith is ſinne. And without faith it is impoſſible to pleaſe God. Alas ſaith Eſay,<note place="margin">Hebr ii</note> 
+               <note place="margin">Eſay 46</note> that me<g ref="char:cmbAbbrStroke">̄</g> ſhuld crye vnto hym which gy<g ref="char:EOLhyphen"/>ueth none anſwere,<note place="margin">Sapi 13. d</note> or pray for lyfe vnto a dead thing. Is not your God a dead thi<g ref="char:cmbAbbrStroke">̄</g>g? or tel vs what anſwere giueth he whan you crie vnto him? doth not the owls &amp; ſwalowes, cats, rats <hi>&amp;</hi> miſe, flie &amp; ronne ouer &amp; about your God, lyke as they doo w<hi rend="sup">t</hi> other ydolles?<note place="margin">Baen vi c</note> By thys might you know ſaith Ieremy y<hi rend="sup">t</hi> it is no God. Yea, do not rats &amp; mi<g ref="char:EOLhyphen"/>ſe deuour &amp; eate your God? &amp; ti<g ref="char:EOLunhyphen"/>me co<g ref="char:cmbAbbrStroke">̄</g>ſum &amp; putrify your God? But what you do with hi<g ref="char:cmbAbbrStroke">̄</g> after, fewe men may knowe. Shall y<hi rend="sup">e</hi> naturall body of Chryſt which was y<hi rend="sup">e</hi> only price of our rede<g ref="char:cmbAbbrStroke">̄</g>p<g ref="char:EOLhyphen"/>tion be eaten of rats or myſe? Or may tyme conſume y<hi rend="sup">e</hi> highe preſt which remaineth for euer Oh ye prieſts of Bell,<note place="margin">Hebre <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> be ones
+<pb facs="tcp:11669:5"/> aſhamed of your lie<g ref="char:cmbAbbrStroke">̄</g>g, for truly if Daniel may ones ſpeke frely w<hi rend="sup">t</hi> y<hi rend="sup">e</hi> king, he will bewray your falſe iuggling. That it may be ſo &amp; y<hi rend="sup">t</hi> ſhortly we praye. Let no man iudge vs y<hi rend="sup">t</hi> we any thynge herin derogate y<hi rend="sup">e</hi> holy ſupper of Chriſt, for that we moſt highly eſteme as the perfyght memo<g ref="char:EOLhyphen"/>ryall of oure redemptyon and mooſt neceſſary food of our ſou<g ref="char:EOLunhyphen"/>les.<note place="margin">Cor xii 10</note> Eating and drinking theri<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> very body &amp; bloude of Chryſt eue<g ref="char:cmbAbbrStroke">̄</g> as our fathers did. But we only warne &amp; reache you y<hi rend="sup">t</hi> ther ſhuld be no ſtrange God amo<g ref="char:cmbAbbrStroke">̄</g>g you.<note place="margin">Eſa. xiiii c</note> And that you ſhuld turne from theſe vayne thi<g ref="char:cmbAbbrStroke">̄</g>gs vnto y<hi rend="sup">e</hi> liuing God.<note place="margin">Act 14. c</note> To whome alone be all honour and glory. Ame<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <closer>
+               <dateline>Sent from verbo dei whoſe aucthour is in cela</dateline>
+            </closer>
+            <epigraph>
+               <q>Flee from worſhipping of ydolles</q>
+               <bibl>i. Cor. x.</bibl>
+            </epigraph>
+            <epigraph>
+               <q>Beleue the Scriptures.</q>
+               <bibl>Marc. i.v.</bibl>
+               <q>And require no more then is commau<g ref="char:cmbAbbrStroke">̄</g>ded you.</q>
+               <bibl>Luc. iii c</bibl>
+            </epigraph>
+            <pb facs="tcp:11669:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
